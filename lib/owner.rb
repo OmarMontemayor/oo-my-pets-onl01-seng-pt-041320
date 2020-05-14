@@ -61,5 +61,8 @@ class Owner
       cat.mood = "nervous"
       cat.owner = nil
     end
+    
+    def lists_pets
+      ""
   end
 end
